@@ -17,7 +17,7 @@ import java.util.Scanner;
 public class ProperShuffle {
     
     final static String PROBLEM_NAME = "problem_C";
-    final static String WORK_DIR = "E:\\Java\\CodeJam\\" + PROBLEM_NAME + "\\";
+    final static String WORK_DIR = "/home/pugal/FreeLearning/CodeJam/" + PROBLEM_NAME + "/";
     
      public static void main(String[] args) throws Exception {
         try (Scanner sc = new Scanner(new FileReader(WORK_DIR + "input.in"));
